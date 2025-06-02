@@ -1,0 +1,8 @@
+requests
+cryptography
+colorama
+tqdm
+beautifulsoup4
+pandas
+ipwhois
+python-whois
