@@ -27,7 +27,6 @@ hideFlare is a Python tool designed to uncover the real hosting details of websi
    ```bash
    pip install -r requirements.txt
    ```
-   *(If `requirements.txt` is missing, please list required packages here.)*
 
 ## Usage
 
